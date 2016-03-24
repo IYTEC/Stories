@@ -1,0 +1,1 @@
+Uses Omni-Auth to authenticate users with a facebook account and access the Facebook Graph API to post to users wall from app.
